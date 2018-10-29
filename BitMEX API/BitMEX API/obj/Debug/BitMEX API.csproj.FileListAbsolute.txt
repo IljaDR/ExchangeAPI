@@ -1,0 +1,19 @@
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\bin\Debug\BitMEX API.exe.config
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\bin\Debug\BitMEX API.exe
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\bin\Debug\BitMEX API.pdb
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.csprojAssemblyReference.cache
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.csproj.CoreCompileInputs.cache
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.exe
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.pdb
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iljad\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.csproj.CopyComplete
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\bin\Debug\BitMEX API.exe.config
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\bin\Debug\BitMEX API.exe
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\bin\Debug\BitMEX API.pdb
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.csprojResolveAssemblyReference.cache
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.csproj.CoreCompileInputs.cache
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.exe
+C:\Users\Ilja\source\repos\BitMEX API\BitMEX API\obj\Debug\BitMEX API.pdb
